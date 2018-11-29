@@ -11,6 +11,7 @@
     <modules>
         <module>stream-framwork-pusher</module>
         <module>stream-framework-gb28181</module>
+        <module>stream-framework-udp-proxy</module>
     </modules>
 
     <properties>
